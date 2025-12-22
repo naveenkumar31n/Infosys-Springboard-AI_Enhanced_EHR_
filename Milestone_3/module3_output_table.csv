@@ -1,0 +1,11 @@
+patient_id,age,gender,symptoms,doctor_observations,diagnosis,icd10_code
+EHR001,45,Male,"['fever', 'cough']",Persistent cough and high fever.,Pneumonia,J18.9
+EHR002,60,Female,"['fatigue', 'high blood sugar']",Elevated glucose levels observed.,Diabetes,E11.9
+EHR003,52,Male,['chest pain'],Consistently high BP readings.,Hypertension,I10
+EHR004,30,Female,"['wheezing', 'shortness of breath']",Breathing difficulty during exertion.,Asthma,J45.909
+EHR005,50,Male,"['fever', 'body ache']",Positive antigen test.,COVID-19,U07.1
+EHR006,40,Female,"['headache', 'dizziness']",High BP with stress factors.,Hypertension,I10
+EHR007,28,Male,"['cough', 'cold']",Mild respiratory infection.,Pneumonia,J18.9
+EHR008,65,Female,"['fatigue', 'blurred vision']",Poor glycemic control.,Diabetes,E11.9
+EHR009,55,Male,['shortness of breath'],Chronic asthma condition.,Asthma,J45.909
+EHR010,48,Female,"['fever', 'cough']",RT-PCR positive.,COVID-19,U07.1
